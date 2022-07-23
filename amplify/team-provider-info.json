@@ -1,0 +1,28 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chanel-staging-190538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::746018881730:role/amplify-chanel-staging-190538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::746018881730:role/amplify-chanel-staging-190538-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chanel-staging-190538-deployment",
+      "UnauthRoleName": "amplify-chanel-staging-190538-unauthRole",
+      "StackName": "amplify-chanel-staging-190538",
+      "StackId": "arn:aws:cloudformation:us-east-1:746018881730:stack/amplify-chanel-staging-190538/463e4dd0-09f1-11ed-91a9-0ef553f0e555",
+      "AmplifyAppId": "d2iumtamjch10p"
+    },
+    "categories": {
+      "auth": {
+        "Chanel": {}
+      },
+      "function": {
+        "getStreamToken": {
+          "streamKey": "c4q86rjugvmx",
+          "streamSecret": "4uskesgdtquwu2923djqvzfqw8wcy9k5g7narc39j9xut43kwag5cku7ppu84u3t",
+          "deploymentBucketName": "amplify-chanel-staging-190538-deployment",
+          "s3Key": "amplify-builds/getStreamToken-766e4f54696f53327634-build.zip"
+        }
+      }
+    }
+  }
+}
