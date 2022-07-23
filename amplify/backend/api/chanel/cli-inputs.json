@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "chanel",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/macair/Desktop/chanel/amplify/backend/api/chanel/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authChanel"
+    }
+  }
+}
